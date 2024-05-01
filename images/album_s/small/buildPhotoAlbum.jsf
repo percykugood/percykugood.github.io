@@ -1,0 +1,212 @@
+﻿App.progressCountTotal = 26;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02124.JPG');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'DSC02124.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02124_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02124_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02124_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02124_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02124_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02124_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02125.JPG');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'DSC02125.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02125_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02125_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02125_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02125_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02125_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02125_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02126.JPG');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'DSC02126.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02126_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02126_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02126_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02126_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02126_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02126_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02127.JPG');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'DSC02127.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02127_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02127_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02127_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02127_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02127_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02127_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02128.JPG');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'DSC02128.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02128_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02128_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02128_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02128_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02128_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02128_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02129.JPG');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'DSC02129.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02129_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02129_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02129_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02129_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02129_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02129_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02130.JPG');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'DSC02130.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02130_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02130_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02130_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02130_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02130_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02130_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02131.JPG');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'DSC02131.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02131_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02131_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02131_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02131_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02131_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02131_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02132.JPG');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'DSC02132.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02132_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02132_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02132_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02132_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02132_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02132_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02133.JPG');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'DSC02133.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02133_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02133_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02133_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02133_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02133_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02133_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02134.JPG');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'DSC02134.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02134_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02134_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02134_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02134_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02134_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02134_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02135.JPG');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'DSC02135.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02135_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02135_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02135_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02135_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02135_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02135_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02136.JPG');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'DSC02136.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02136_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02136_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02136_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02136_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02136_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02136_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02137.JPG');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'DSC02137.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02137_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02137_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02137_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02137_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02137_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02137_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02138.JPG');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'DSC02138.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02138_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02138_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02138_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02138_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02138_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02138_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02139.JPG');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'DSC02139.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02139_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02139_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02139_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02139_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02139_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02139_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02140.JPG');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'DSC02140.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02140_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02140_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02140_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02140_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02140_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02140_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02141.JPG');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'DSC02141.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02141_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02141_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02141_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02141_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02141_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02141_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02142.JPG');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'DSC02142.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02142_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02142_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02142_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02142_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02142_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02142_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02143.JPG');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'DSC02143.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02143_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02143_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02143_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02143_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02143_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02143_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02144.JPG');
+App.progressCountCurrent = 21;
+App.batchStatusString = 'DSC02144.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02144_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02144_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02144_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02144_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02144_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02144_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02145.JPG');
+App.progressCountCurrent = 22;
+App.batchStatusString = 'DSC02145.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02145_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02145_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02145_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02145_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02145_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02145_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02146.JPG');
+App.progressCountCurrent = 23;
+App.batchStatusString = 'DSC02146.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02146_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02146_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02146_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02146_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02146_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02146_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02148.JPG');
+App.progressCountCurrent = 24;
+App.batchStatusString = 'DSC02148.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02148_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02148_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02148_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02148_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02148_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02148_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02149.JPG');
+App.progressCountCurrent = 25;
+App.batchStatusString = 'DSC02149.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02149_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02149_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02149_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02149_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02149_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02149_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/www/images/album/i/DSC02150.JPG');
+App.progressCountCurrent = 26;
+App.batchStatusString = 'DSC02150.JPG';
+if (!Files.exists('file:///D|/www/images/album_s/images/DSC02150_JPG.jpg') || confirm('file:///D|/www/images/album_s/images/DSC02150_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/images/DSC02150_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/www/images/album_s/small/DSC02150_JPG.jpg') || confirm('file:///D|/www/images/album_s/small/DSC02150_JPG.jpg 已經存在。按下「確定」取代這個檔案。')) 
+fw.exportDocumentAs(doc, 'file:///D|/www/images/album_s/small/DSC02150_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';
